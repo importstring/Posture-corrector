@@ -25,5 +25,5 @@ Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
 
 License
-This project does not currently have a license. Please add a LICENSE file to specify the licensing terms.
+MIT 2024
 
