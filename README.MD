@@ -1,4 +1,4 @@
-# Posture Corrector
+# Perfect Posture - Live Posture Identification 
 A Python-based application that monitors user's posture using computer vision and machine learning techniques, and sends notifications to correct bad postures.
 
 Features
