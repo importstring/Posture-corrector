@@ -1,1 +1,5 @@
-
+tk
+opencv-python
+mediapipe
+numpy
+scikit-learn
